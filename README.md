@@ -36,7 +36,7 @@
    Download the repository or clone it using Git:
 
    ```bash
-   git clone https://github.com/your-repository/GhostPinger.git
+   git clone https://github.com/haku0x/GhostPinger.git
    cd GhostPinger
    ```
 
