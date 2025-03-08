@@ -1,7 +1,5 @@
 # GhostPinger
 
-
-
 **GhostPinger** is a secure, web-based application for continuous URL monitoring using various ping methods. The application provides real-time statistics and logging to help monitor the availability of your websites and services.
 
 ## Features
@@ -13,6 +11,14 @@
 - **Persistent Settings**: Your configuration is saved between sessions
 - **Secure Authentication**: Single administrator account with secure password storage
 - **User-Friendly Interface**: Responsive design for use on desktop and mobile devices
+
+## Preview
+
+### Login Page
+![GhostPinger Login](assets/login.png)
+
+### Dashboard
+![GhostPinger Dashboard](assets/dashboard.png)
 
 ## Installation
 
@@ -30,7 +36,7 @@
    Download the repository or clone it using Git:
 
    ```bash
-   git clone https://github.com/haku0x/GhostPinger.git
+   git clone https://github.com/your-repository/GhostPinger.git
    cd GhostPinger
    ```
 
@@ -123,5 +129,3 @@
 ## Support & Development
 
 If you have any questions, want to contribute to the development, or need support, join our Discord server: [https://discord.gg/MHW6QnBHDY](https://discord.gg/MHW6QnBHDY)
-
-
